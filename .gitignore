@@ -1,3 +1,2 @@
 # Ignore the Sublime prefs files
-mvc.sublime-projects
-mvc.sublime-workspace
+*.sublime-*
