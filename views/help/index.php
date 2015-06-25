@@ -1,1 +1,1 @@
-This is the help page.
+this is the help

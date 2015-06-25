@@ -1,18 +1,18 @@
 body {
-  background: silver;
+	background: silver;
 }
 
 #header {
-  padding: 20px;
-  background: gold;
+	padding: 20px;
+	background: gold;
 }
 
 #content {
-  padding: 20px;
-  background: #fff;
+	background: #fff;
+	padding: 20px;
 }
 
 #footer {
-  padding: 20px;
-  background: green;
+	background: green;
+	padding: 20px;
 }
