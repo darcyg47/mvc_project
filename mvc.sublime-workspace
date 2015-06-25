@@ -192,10 +192,45 @@
 	},
 	"expanded_folders":
 	[
-		"/E/Users/D'Arcy/projects/web/mvc_project"
+		"/E/Users/D'Arcy/projects/web/mvc_project",
+		"/E/Users/D'Arcy/projects/web/mvc_project/config",
+		"/E/Users/D'Arcy/projects/web/mvc_project/controllers",
+		"/E/Users/D'Arcy/projects/web/mvc_project/libs",
+		"/E/Users/D'Arcy/projects/web/mvc_project/models",
+		"/E/Users/D'Arcy/projects/web/mvc_project/public",
+		"/E/Users/D'Arcy/projects/web/mvc_project/public/css",
+		"/E/Users/D'Arcy/projects/web/mvc_project/public/js",
+		"/E/Users/D'Arcy/projects/web/mvc_project/views",
+		"/E/Users/D'Arcy/projects/web/mvc_project/views/error",
+		"/E/Users/D'Arcy/projects/web/mvc_project/views/help",
+		"/E/Users/D'Arcy/projects/web/mvc_project/views/index",
+		"/E/Users/D'Arcy/projects/web/mvc_project/views/login"
 	],
 	"file_history":
 	[
+		"/E/Users/D'Arcy/projects/web/mvc_project/views/header.php",
+		"/E/Users/D'Arcy/projects/web/mvc_project/libs/Bootstrap.php",
+		"/E/Users/D'Arcy/projects/web/mvc_project/models/help_model.php",
+		"/E/Users/D'Arcy/projects/web/mvc_project/controllers/help.php",
+		"/E/Users/D'Arcy/projects/web/mvc_project/controllers/index.php",
+		"/E/Users/D'Arcy/projects/web/mvc_project/controllers/login.php",
+		"/E/Users/D'Arcy/projects/web/mvc_project/controllers/error.php",
+		"/E/Users/D'Arcy/projects/web/mvc_project/views/error/index.php",
+		"/E/Users/D'Arcy/projects/web/mvc_project/views/help/index.php",
+		"/E/Users/D'Arcy/projects/web/mvc_project/views/index/index.php",
+		"/E/Users/D'Arcy/projects/web/mvc_project/views/login/index.php",
+		"/E/Users/D'Arcy/projects/web/mvc_project/libs/View.php",
+		"/E/Users/D'Arcy/projects/web/mvc_project/index.php",
+		"/E/Users/D'Arcy/projects/web/mvc_project/config/paths.php",
+		"/E/Users/D'Arcy/projects/web/mvc_project/config/database.php",
+		"/E/Users/D'Arcy/projects/web/mvc_project/public/css/default.css",
+		"/E/Users/D'Arcy/projects/web/mvc_project/libs/Controller.php",
+		"/E/Users/D'Arcy/Downloads/jquery-1.11.3.min.js",
+		"/E/Users/D'Arcy/projects/web/mvc_project/views/footer.php",
+		"/E/Users/D'Arcy/projects/web/mvc_project/libs/Model.php",
+		"/C/Users/D'Arcy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/D'Arcy/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/Users/D'Arcy/projects/web/mvc_project/mvc.sublime-project",
 		"/e/Users/D'Arcy/projects/web/mvc_project/index.php",
 		"/e/Users/D'Arcy/projects/web/mvc_project/.htaccess",
 		"/E/Users/D'Arcy/projects/web/Vagrantfile",
@@ -318,11 +353,6 @@
 			"sheets":
 			[
 			]
-		},
-		{
-			"sheets":
-			[
-			]
 		}
 	],
 	"incremental_find":
@@ -331,7 +361,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -342,18 +372,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -401,7 +424,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
@@ -409,7 +432,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 208.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
